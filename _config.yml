@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Rob McQueen's Homepage
 description: Rob McQueen is a graduate student in Boston College's Philosophy Department
+logo: me.jpeg
 
 github:
   is_project_page: false
